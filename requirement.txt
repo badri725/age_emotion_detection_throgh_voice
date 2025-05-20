@@ -1,0 +1,7 @@
+
+*   **Python 3.x**
+*   **Librosa:** For audio feature extraction.
+*   **Scikit-learn:** For building and evaluating machine learning models (SVC, RandomForestClassifier, etc.).
+*   **NumPy:** For numerical operations.
+*   **Joblib:** For saving and loading trained models.
+*   **Tkinter:** For the graphical user interface.
